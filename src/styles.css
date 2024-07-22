@@ -1,0 +1,195 @@
+.App {
+  background-color: #fff;
+}
+.top {
+  width: auto;
+  padding: 5px;
+  background-color: #fff;
+
+  border-bottom: 1px solid #d2d2d2;
+  color: black;
+  float: center;
+}
+.m {
+  width: 80%;
+  margin-left: 200px;
+  margin-right: 300px;
+  padding-bottom: 40px;
+}
+.m1 {
+  float: left;
+  margin-left: 5px;
+}
+input {
+  margin: 0px;
+  margin-left: 150px;
+  padding-right: 10px;
+  margin-left: 200px;
+  width: 100px 50px;
+}
+.clear {
+  background: rgb(248, 245, 245) url(http://i.stack.imgur.com/mJotv.gif)
+    no-repeat right 10px center;
+  border: 1px solid #999;
+  padding: 10px 20px;
+  padding-right: 60px;
+  padding-left: 40px;
+  padding-bottom: 10px;
+  border-radius: 1px;
+}
+.icon {
+  padding: 10px;
+  min-width: 40px;
+}
+.m img {
+  max-width: 100px;
+  margin-top: 3px;
+  margin-left: 90px;
+}
+.m1 ul {
+  margin-top: 1px;
+  margin-left: 0px;
+  list-style-type: none;
+}
+.m1 li {
+  float: left;
+  padding-right: 25px;
+  width: 20px;
+  list-style-type: none;
+}
+
+a {
+  display: block;
+  padding: 8px;
+  background-color: #fdfbfb;
+}
+.n {
+  height: 200px;
+  margin-left: 299px;
+  margin-right: 280px;
+  padding-top: 10px;
+  padding-bottom: 20px;
+  border-bottom: 1px solid #d2d2d2;
+}
+.n1 {
+  width: 300px;
+  height: 90%;
+  padding-top: 30px;
+  float: left;
+}
+.n1 img {
+  width: 150px;
+  height: 150px;
+  padding-left: 100px;
+}
+.n2 {
+  float: left;
+  margin-top: 20px;
+}
+.set {
+  width: 30px;
+  height: 25px;
+  margin-top: 17px;
+  margin-left: 10px;
+}
+.n3 {
+  margin-top: 100px;
+}
+.n3 ul {
+  list-style-type: none;
+}
+.n3 li {
+  float: left;
+  padding-left: 0px;
+  padding-right: 30px;
+}
+.prof {
+  padding-top: 1px;
+  width: 30px;
+}
+.prof1 {
+  padding-top: 0px;
+  width: 35px;
+}
+.prof2 {
+  padding-top: 2px;
+  width: 32px;
+}
+.prof3 {
+  padding-top: 0px;
+  width: 30px;
+}
+.n button {
+  width: 80px;
+  height: 25px;
+  margin-top: 20px;
+  margin-left: 35px;
+  background-color: #fff;
+  font-size: 12px;
+}
+.n p {
+  margin-top: 20px;
+  font-size: 28px;
+  font-family: Arial, Helvetica, sans-seri;
+}
+.n h3 {
+  margin-top: 18px;
+  font-size: 15px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.t {
+  height: 40px;
+  margin-left: 299px;
+  margin-right: 280px;
+}
+.s {
+  height: 500px;
+  margin-left: 299px;
+  margin-right: 280px;
+  padding-bottom: 20px;
+  border-bottom: 1px solid #d2d2d2;
+}
+
+.post {
+  margin-left: 0px;
+  width: 400px;
+  height: 400px;
+}
+.save {
+  width: 100px;
+  height: 100px;
+  padding-left: 90px;
+}
+.tag {
+  width: 100px;
+  height: 100px;
+  padding-left: 90px;
+}
+.tabs {
+  height: 700px;
+  margin-left: 299px;
+  margin-right: 280px;
+  padding-bottom: 20px;
+  border-bottom: 1px solid #d2d2d2;
+}
+
+.tab-buttons {
+  margin-bottom: 50px;
+}
+
+.tabs button {
+  margin-right: 15px;
+  font-size: 13px;
+  background: transparent;
+  border: none;
+  outline: none;
+  padding: 10px 20px;
+  cursor: pointer;
+  color: rgba(0, 0, 0, 0.4);
+  transition: all ease-in-out 0.2s;
+  border-bottom: 2px solid transparent;
+}
+.tabs button.active {
+  border-top: 2px solid #42b3f4;
+  color: black;
+}
